@@ -2,8 +2,12 @@ import { ACTION_TYPE as HOME_ACTION } from 'actions/home';
 
 const regexp = /(.*):success/;
 export default (state = {}, action) => {
-  switch (regexp.exec(action.type)) {
-  case HOME_ACTION.GET_ACTIVITY: return {...state, activity: action.response};
+  const type = regexp.exec(action.type) || [];
+  switch (type[1]) {
+  case HOME_ACTION.GET_ACTIVITY:
+    const { data } = action.response;
+    console.log(data);
+    return {...state, activity: data};
   default: return state;
   }
 }

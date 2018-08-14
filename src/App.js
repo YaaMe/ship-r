@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <Provider store={store}>
         <Router>
-          <Layout>
+          <Layout className="App">
             <Content>
               <Switch>
                 <Route path="/home" component={Home}/>
