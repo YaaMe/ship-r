@@ -22,15 +22,15 @@ class Footerbar extends React.Component {
 
   render() {
     const routes = [{
-      route: 'home',
+      route: '/ship-r/home',
       icon: 'home',
       title: '首页'
     }, {
-      route: 'raiders',
+      route: '/ship-r/raiders',
       icon: 'ship',
       title: '攻略'
     }, {
-      route: 'about',
+      route: '/ship-r/about',
       icon: 'book',
       title: '关于'
     }];

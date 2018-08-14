@@ -26,10 +26,10 @@ class App extends Component {
           <Layout className="App">
             <Content>
               <Switch>
-                <Route path="/home" component={Home}/>
-                <Route path="/raiders" component={Raiders}/>
-                <Route path="/about" component={About}/>
-                <Redirect to="/home"/>
+                <Route path="/ship-r/home" component={Home}/>
+                <Route path="/ship-r/raiders" component={Raiders}/>
+                <Route path="/ship-r/about" component={About}/>
+                <Redirect to="/ship-r/home"/>
               </Switch>
             </Content>
             <Footer>
