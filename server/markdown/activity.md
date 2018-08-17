@@ -1,9 +1,9 @@
-### 活动信息图
+### E1
 
-+ title 1
-+ title 2
+6dd基本直达
 
-### image
+### E2
 
-<img src="https://www.sanity.io/static/images/logo_red.svg?v=2" width="300"><br />
-Sanity: The Headless CMS Construction Kit
+先6航母打一次C
+然后平均低速+2DD直达
+道中可能一鱼但是没有开幕雷
