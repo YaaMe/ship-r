@@ -19,6 +19,6 @@ boss无潜艇，航母继续洗……烦轮型带了2BB
 
 ### E5
 
-两BOSS点 二号BOSS 2clt4ss阵容，cvcvlav会往E走，F点强制夜战，dd要带反潜
+二号BOSS，呸 压制点,2clt4ss阵容，cvcvlav会往E走，F点强制夜战，但感觉没必要去……
 
 
